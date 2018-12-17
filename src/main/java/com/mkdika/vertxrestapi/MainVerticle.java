@@ -1,4 +1,4 @@
-package com.mkdika.vertx-rest-api;
+package com.mkdika.vertxrestapi;
 
 import io.vertx.core.AbstractVerticle;
 
